@@ -1,0 +1,21 @@
+SYSTEM WORKING FEATURES
+
+LOGIN
+- User Type Recognition
+- Mandatory Password Change for New Accounts
+
+ADMIN USERS MANAGEMENT
+- Student Account Registration
+- Student Account Deactivation (Unenroll)
+- Student Account Reactivation (Enroll)
+- Student Account Archiving
+- Archiving Confirmation Input (Student)
+- Instructor Account Registration
+- Instructor Account Deactivation (Inactive)
+- Instructor Account Reactivation (Active)
+- Activity Logging Based on Account Registration (Student, Instructor)
+- Activity Logging Based on Account Reactivation (Student, Instructor)
+- Activity Logging Based on Account Deactivation (Student, Instructor)
+- Activity Logging Based on Account Archiving (Student, Instructor)
+- User Account Archiving
+- Profile Overview Display
